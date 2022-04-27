@@ -1,5 +1,3 @@
 Hola Mundo
 
-Hola Pais
-
-Daniel
+Hola Mundo
